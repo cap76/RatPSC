@@ -1,0 +1,15 @@
+Status	rESC_PVC_WT_1_S21_R1_001Aligned.sortedByCoord.out.bam	rESC_PVC_WT_2_S22_R1_001Aligned.sortedByCoord.out.bam	rESC_PVC_HT_1_S23_R1_001Aligned.sortedByCoord.out.bam	rESC_PVC_HT_2_S24_R1_001Aligned.sortedByCoord.out.bam	N11_Epi1_S11_R1_001Aligned.sortedByCoord.out.bam	N12_Epi2_S12_R1_001Aligned.sortedByCoord.out.bam	rEpiSC_NTAV_16_2_S6_R1_001Aligned.sortedByCoord.out.bam	Rat_ES_1_S13_R1_001Aligned.sortedByCoord.out.bam	Rat_ES_2_S14_R1_001Aligned.sortedByCoord.out.bam	rEpiSC_NTAV_16_1_S5_R1_001Aligned.sortedByCoord.out.bam	rEpiSC_WT_21_2_S2_R1_001Aligned.sortedByCoord.out.bam	rEpiSC_WT_21_1_S1_R1_001Aligned.sortedByCoord.out.bam	rEpiSC_WT_23_1_S3_R1_001Aligned.sortedByCoord.out.bam	rEpiSC_WT_23_2_S4_R1_001Aligned.sortedByCoord.out.bam
+Assigned	34594415	14897877	12230524	13989791	21071127	17322481	11898562	11528126	7233789	9010735	7994091	7461217	7082889	8013224
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	66133984	28973387	24735196	27290533	30651814	34893329	24527252	22261881	14088211	18255396	15933107	14370420	13194723	16562836
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	10318022	3594459	3065169	3456379	3395184	3312658	2653095	2510437	1683252	2150363	1628283	1510160	1535162	1721067
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	524837	218635	182068	204643	299692	243172	171363	170178	107932	128021	113871	107792	100822	116430
