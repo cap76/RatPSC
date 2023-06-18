@@ -1,0 +1,13 @@
+1. This matlab code was tested in Matlab 2017a.
+
+2. When using it, all scripts and files in this directory need to be in the current Matlab path.
+
+3. Open main.m and input the file name which need to be tested, this file should record the expression values of genes in different embryo samples, or the correlation between different query samples and embryo samples, or the enrichment score of a gene list in each embryo sample and so on (column separator should be tab). This file must be a matrix and the column represent the embryo samples, the row represent the genes, query samples or any other name you want. . Note that the embryo sample name must contain a ditailed postion followed with the stage informaion, for example, 5A.E7.0 (5A sample from E7.0 stage). Please view 'example.txt' in this directory to see the format.
+
+4. If you only want to  visualize the corn plot for one stage, you only need to parpare the input file with  contions the samples from this stage, for example, you could only contaion 1AP.E6.0, 1EAP.E6.0, 2A.E6.0 ... 5EP.E6.0 for E6.0 embryo samples. After generate the cornplot, samples from other stages will be present as Hollow circles. 
+
+5. Copy the codes in the main.m and paste them in the Matlab command window.
+
+6. Each line of tested matrix will generate a *.pdf which contains the corn plot .
+
+7. Type 'help FiveStagesCornPlot' in Matlab command window for more information.
